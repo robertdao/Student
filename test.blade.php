@@ -18,7 +18,7 @@
     <!-- place navbar here -->
   </header>
   <main>
-      can ni nẻ chi bai
+
   </main>
   <footer>
     <!-- place footer here -->
